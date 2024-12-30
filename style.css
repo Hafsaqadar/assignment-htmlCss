@@ -5,6 +5,7 @@
     box-sizing: border-box;
     font-family: 'montserrat', sans-serif;
 }
+
 .container{
     background-color: rgb(87, 91, 110);
      margin: 0 auto;
@@ -47,16 +48,11 @@ h2{
 }
 
 form{
-   
     padding: 20px;
     display: flex;
     flex-direction: column;
     width: 390px; 
     
-  
- 
-    
- 
 } 
 
 .row{
@@ -98,4 +94,5 @@ input::placeholder{
      font-weight: 600;
      text-transform: uppercase;
 }
+
 
